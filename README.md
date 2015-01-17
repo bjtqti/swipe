@@ -13,7 +13,8 @@
 
 ### 示例
 
-[![github](http://images.cnitblog.com/blog/545140/201501/172019240112565.png "github")]:http://sandbox.runjs.cn/show/o4ql6f6a
+![github](http://images.cnitblog.com/blog/545140/201501/172019240112565.png "github")
 
+[在线演示地址](http://sandbox.runjs.cn/show/o4ql6f6a)
 
 [点击这里我你可以链接到我的博客](http://www.cnblogs.com/afrog/) 
