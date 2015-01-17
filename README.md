@@ -13,8 +13,7 @@
 
 ### 示例
 
-![github](http://images.cnitblog.com/blog/545140/201501/172019240112565.png "github") 
+[![github](http://images.cnitblog.com/blog/545140/201501/172019240112565.png "github")]:http://sandbox.runjs.cn/show/o4ql6f6a
 
-[image]: http://sandbox.runjs.cn/show/o4ql6f6a "github";
 
 [点击这里我你可以链接到我的博客](http://www.cnblogs.com/afrog/) 
