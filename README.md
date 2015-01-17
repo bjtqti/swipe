@@ -13,6 +13,6 @@
 
 ### 示例
 
-![image]:(http://images.cnitblog.com/blog/545140/201501/172019240112565.png "博客园") 
+![github](http://images.cnitblog.com/blog/545140/201501/172019240112565.png "博客园") 
 
 [点击这里我你可以链接到我的博客](http://www.cnblogs.com/afrog/) 
